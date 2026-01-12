@@ -14,27 +14,47 @@
 
 ## 게임 구성
 
--**Qix**:라인으로 영역을 차지하면 커버를 지워 뒷 이미지 공개
+**Qix**
 
--**Block_Out**:벽돌깨기+스테이지 클리어마다 Show씬 커버 제거
+-라인으로 영역을 차지하면 커버를 지워 뒷 이미지 공개
 
--**Ping_pong**:라운드 승리->Show 씬->커버 제거(총 3스테이지)
+**Block_Out**:
 
--**MatchGame(사천성)**:짝 맞추기(2~3층 레이어)+매칭 불가 시 자동 셔플
+-벽돌깨기+스테이지 클리어마다 Show씬 커버 제거
+
+**Ping_pong**:
+
+-라운드 승리->Show 씬->커버 제거(총 3스테이지)
+
+**MatchGame(사천성)**
+
+-짝 맞추기(2~3층 레이어)+매칭 불가 시 자동 셔플
 
 ## 폴더 구조
 
--"01.Main_Scene_Scripts":매인 화면 (시작/갤러리/종료)
+**01.Main_Scene_Scripts**
 
--"02.Loby_Scene_Scriprs":로비/개임 선택/캐릭터 선택/갤러리
+-매인 화면 (시작/갤러리/종료)
 
--"03.Qix_Scripts":Qix 관련 스크립트
+**"02.Loby_Scene_Scriprs"**
 
--"04.Block_out_Scripts":Block_Out+Show(커버 제거)관련 스크립트
+-로비/개임 선택/캐릭터 선택/갤러리
 
--"05.Ping_Pong_Scripts":Ping_Pong+Show(커버 제거)관련 스크립트
+**03.Qix_Scripts**
 
--"Match_Game_Scripts":MatchGame(사천성)관련 스크립트
+-Qix 관련 스크립트
+
+**04.Block_out_Scripts**
+
+-Block_Out+Show(커버 제거)관련 스크립트
+
+**05.Ping_Pong_Scripts**
+
+-Ping_Pong+Show(커버 제거)관련 스크립트
+
+**Match_Game_Scripts**
+
+-MatchGame(사천성)관련 스크립트
 
 ## 주요 코드
 
