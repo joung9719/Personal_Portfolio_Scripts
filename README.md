@@ -47,6 +47,7 @@
  -"GalleryManager":갤러리 저장/언락(Perfect클리어)
 
 **Qix**
+
   -"QixGameManager":진행/클리어/씬 이동
   
   -"CoverMackInit":커버 마스크 제거/퍼센트 계산
