@@ -38,7 +38,7 @@
 
 ## 주요 코드
 
--Main/Loby/Gallery
+**Main/Loby/Gallery**
 
  -"GameStart":메인 버튼(시작/갤러리/종료)
 
@@ -46,24 +46,24 @@
 
  -"GalleryManager":갤러리 저장/언락(Perfect클리어)
 
--Qix
+**Qix**
   -"QixGameManager":진행/클리어/씬 이동
   
   -"CoverMackInit":커버 마스크 제거/퍼센트 계산
 
--Block_out
+**Block_out**
 
  -"BlockOutGameManager":진행/클리어/스테이지 관리
 
  -"BlockOutShowManager":Show씬 커버 제거
 
--Ping_Pong
+**Ping_Pong**
 
  -"PingPongGameManager":점수/승패/라이프/씬 이동
 
  -"EnemyAi":공 추적 기반 적 AI
 
--MatchGame
+**MatchGame**
 
  -"MatchGameManager":생성/매칭/레이어/셔플/클리어
 
