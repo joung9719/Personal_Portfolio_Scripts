@@ -36,7 +36,7 @@
 
 -매인 화면 (시작/갤러리/종료)
 
-**"02.Loby_Scene_Scriprs"**
+**02.Loby_Scene_Scriprs**
 
 -로비/개임 선택/캐릭터 선택/갤러리
 
@@ -52,7 +52,7 @@
 
 -Ping_Pong+Show(커버 제거)관련 스크립트
 
-**Match_Game_Scripts**
+**06.Match_Game_Scripts**
 
 -MatchGame(사천성)관련 스크립트
 
